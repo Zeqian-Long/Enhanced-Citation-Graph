@@ -1,0 +1,6 @@
+requests
+arxiv2text
+unidecode
+numpy
+tqdm
+nltk
