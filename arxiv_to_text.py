@@ -63,7 +63,7 @@ def parse_papers_url(focus_url, cited_url):
 
 
 if __name__ == "__main__":
-    test_url = "https://arxiv.org/pdf/2410.10792"
+    test_url = "https://arxiv.org/pdf/2502.14767"
     
     print(f"Fetching text from: {test_url}")
     text = parse_paper_single(test_url)
