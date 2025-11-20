@@ -7,3 +7,4 @@ nltk
 sentence-transformers
 scikit-learn
 torch
+neo4j
