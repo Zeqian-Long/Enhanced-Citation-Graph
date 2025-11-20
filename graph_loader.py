@@ -1,6 +1,11 @@
 import os
 from neo4j import GraphDatabase
 import logging
+from dotenv import load_dotenv  # <--- IMPORT THIS
+
+# --- LOAD DOTENV ---
+# This finds the .env file and loads it into os.environ
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
