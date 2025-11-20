@@ -4,3 +4,6 @@ unidecode
 numpy
 tqdm
 nltk
+sentence-transformers
+scikit-learn
+torch
