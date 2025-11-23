@@ -4,3 +4,9 @@ unidecode
 numpy
 tqdm
 nltk
+sentence-transformers
+scikit-learn
+torch
+torch_geometric
+neo4j
+python-dotenv
